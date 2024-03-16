@@ -33,14 +33,14 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 2. Acesse o diretório do projeto:
 
-<img src="./public/image/image-readme/acessar-o-diretório-do-projeto.PNG" alt="cd nome-do-repositorio">
+cd nome-do-repositorio
 
 3. Instale as dependências:
 
-<img src="./public/image/image-readme/instalar-as-dependencias.PNG" alt="npm install">
+npm install
 
 4. Inicie o servidor de desenvolvimento:
 
-<img src="./public/image/image-readme/inicializar-servidor.PNG" alt="npm start">
+npm start
 
 5. Abra o navegador e acesse http://localhost:3000 para visualizar a aplicação.
